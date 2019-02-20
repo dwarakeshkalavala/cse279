@@ -8,7 +8,7 @@ letter-spacing:3px;
 }
 p {
 direction: rtl;
-letter-spacing: -3px;
+deleted
 word-spacing: 80px;
 
  p {
