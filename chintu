@@ -1,0 +1,19 @@
+<html>
+<head>
+<style>
+p {
+color:green;
+text-align:center;
+letter-spacing:3px;
+}
+p {
+direction: rtl;
+letter-spacing: -3px;
+word-spacing: 80px;
+}
+ p {
+text-indent:50px;
+}
+</style>
+</head>
+</html>
