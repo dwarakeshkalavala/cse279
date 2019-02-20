@@ -7,8 +7,7 @@ text-align:center;
 letter-spacing:3px;
 }
 p {
-direction: rtl;
-letter-spacing: -3px;
+directiochintu
 word-spacing: 80px;
 
  p {
